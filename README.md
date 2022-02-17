@@ -18,10 +18,10 @@ Tech Stack:
 4) Google authentication
 5) data.gov.sg
 
-
 ![CHAS4](https://user-images.githubusercontent.com/16291759/154530701-8b209932-f339-4ffb-a536-c380b1f7dc9c.jpeg)
 ![CHAS3](https://user-images.githubusercontent.com/16291759/154530725-14b2c424-7973-40d4-afc7-cb8d4e291ca6.jpeg)
-![CHAS2](https://user-images.githubusercontent.com/16291759/154530741-6d31e8c3-4d2e-4bea-8d1f-abf1640e93f0.jpeg)
+![CHAS Review](https://user-images.githubusercontent.com/16291759/154531484-1aeb64dc-3d0d-4281-8f28-5754c9bbd148.jpeg)
+![CHAS7](https://user-images.githubusercontent.com/16291759/154530905-95700903-37ec-40db-91a1-e59c5dc68760.jpeg)
 ![CHAS](https://user-images.githubusercontent.com/16291759/154530757-677097dd-2cf6-48a1-b727-5a4759fc9642.jpeg)
 ![CHAS5](https://user-images.githubusercontent.com/16291759/154530770-8d491402-a3d4-45b3-b660-e78050675fdc.jpeg)
-![CHAS7](https://user-images.githubusercontent.com/16291759/154530905-95700903-37ec-40db-91a1-e59c5dc68760.jpeg)
+
